@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 messing around with merge in master
 =======
 hello
 trying to do stash this file
 >>>>>>> Stashed changes
+=======
+added from branch r2
+>>>>>>> r2
