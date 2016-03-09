@@ -1,0 +1,20 @@
+From b2fb60d4e0453b25cd78e990f563dae3c0332375 Mon Sep 17 00:00:00 2001
+From: kkanth <kanthe213@gmail.com>
+Date: Wed, 9 Mar 2016 17:19:15 +0530
+Subject: [PATCH 1/2] stash file
+
+---
+ stash.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 stash.txt
+
+diff --git a/stash.txt b/stash.txt
+new file mode 100644
+index 0000000..2326a64
+--- /dev/null
++++ b/stash.txt
+@@ -0,0 +1 @@
++stashed to heap memory
+-- 
+2.7.2.windows.1
+
