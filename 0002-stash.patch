@@ -1,0 +1,16 @@
+From 04bc9c719d19a69ed8ceea6950a39e6c5dd941f6 Mon Sep 17 00:00:00 2001
+From: kkanth <kanthe213@gmail.com>
+Date: Wed, 9 Mar 2016 17:23:59 +0530
+Subject: [PATCH 2/2] stash
+
+---
+ st.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 st.txt
+
+diff --git a/st.txt b/st.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.7.2.windows.1
+
